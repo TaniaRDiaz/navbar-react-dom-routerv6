@@ -1,6 +1,6 @@
 # Navbar with react-router-dom@6
 
-React Js project v18. Navbar and Footer. react-router-dom@6 is used for route handling.
+React Js project v18. Responsive Navbar and Footer. react-router-dom@6 is used for route handling.
 
 ## Dependencies
 
