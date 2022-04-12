@@ -1,11 +1,9 @@
-# Getting Started with Create React App
+# Navbar with react-router-dom@6
 
 React Js project v18. Navbar and Footer. react-router-dom@6 is used for route handling.
 
-## Available Scripts
+## Dependencies
 
-In the project directory, you can run:
-
-### `npm start`
+react-router-dom@6, react-bootstrap, react-icons
 
 
